@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Xinyu (Ginny) Wang is a third-year dual-degree Ph.D. student in Informatics and Social Data Analytics at the Pennsylvania State University. She is advised by Dr. Sarah Rajtmajer. She holds a Masters of Engineering from University of California at Berkeley and a Bachelors in Industrial Engineering from University of Illinois at Urbana-Champaign.  Her research interests include digital harm in social media, misinformation, computational social science, natural language processing, etc. She ha
+Xinyu (Ginny) Wang is a third-year dual-degree Ph.D. student in Informatics and Social Data Analytics at the Pennsylvania State University. She is advised by Dr. Sarah Rajtmajer. She holds a Masters of Engineering from University of California at Berkeley and a Bachelors in Industrial Engineering from University of Illinois at Urbana-Champaign.  Her research interests include digital harm in social media, misinformation, computational social science, natural language processing, etc. 
 {style="text-align: justify;"}
