@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Xinyu (Ginny) Wang 
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Xinyu
+last_name: Wang
 
 # Status emoji
 status:
@@ -17,34 +17,35 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Dual-degree Ph.D. student at Penn State
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Pennsylvania State University
+    url: https://ist.psu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: This is Xinyu (Ginny) Wang, a third-year dual-degree Ph.D. student in Informatics and Social Data Analytics at the Pennsylvania State University. I am honored to be advised by Dr. Sarah Rajtmajer. My research interests include digital harm in social media, misinformation, computational social science, natural language processing, etc.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Computational Social Science
   - Computational Linguistics
-  - Information Retrieval
+  - Data Science
+  - Natural Language Processing
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Dual-degree PhD in Informatics and Social Data Analytics
+      institution: Pennsylvania State University
+      year: 2025
+    - course: MEng in Industrial Engineering and Operations Research
+      institution: Unviersity of California at Berkeley
+      year: 2020
+    - course: BSc in Industrial Engineering
+      institution: University of Illinois at Urbana-Champaign
+      year: 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -63,7 +64,7 @@ skills:
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 80
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -96,19 +97,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/XinyuWa67218493
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=fyoJ1cUAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/XinyuWang1998
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/xinyu-ginny-wang/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xinyu (Ginny) Wang is a third-year dual-degree Ph.D. student in Informatics and Social Data Analytics at the Pennsylvania State University. She is advised by Dr. Sarah Rajtmajer. She holds a Masters of Engineering from University of California at Berkeley and a Bachelors in Industrial Engineering from University of Illinois at Urbana-Champaign.  Her research interests include digital harm in social media, misinformation, computational social science, natural language processing, etc. She ha
 {style="text-align: justify;"}
