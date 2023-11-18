@@ -69,11 +69,11 @@ sections:
           location: Pennsylvania 
           date_start: '2021-08-01'
           date_end: ''
-#          description: |2-
-#              Responsibilities include:
-#              * Analysing
-#              * Modelling
-#              * Deploying
+          description: |2-
+              Responsibilities include:
+              * Analysing
+              * Modelling
+              * Deploying
           - title: Research Assistant
           company: Center for Social Data Analytics
           company_url: ''
