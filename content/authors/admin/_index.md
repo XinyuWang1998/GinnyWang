@@ -39,7 +39,7 @@ education:
   courses:
     - course: Dual-degree PhD in Informatics and Social Data Analytics
       institution: Pennsylvania State University
-      year: 2025
+      year: Expected 2025
     - course: MEng in Industrial Engineering and Operations Research
       institution: Unviersity of California at Berkeley
       year: 2020
@@ -78,13 +78,13 @@ skills:
         icon_pack: fas
       - name: Cats
         description: ''
-        percent: 100
+        percent: 50
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Gaming
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: gamepad
         icon_pack: fas
 
 # Social/Academic Networking
