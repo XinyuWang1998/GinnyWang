@@ -170,8 +170,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Online Harm
+          tag: Online Harm
         - name: Other
           tag: Demo
     design:
