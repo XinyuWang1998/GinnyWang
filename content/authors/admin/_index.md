@@ -25,7 +25,7 @@ organizations:
     url: https://ist.psu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: This is Xinyu (Ginny) Wang, a third-year dual-degree Ph.D. student in Informatics and Social Data Analytics at the Pennsylvania State University. I am honored to be advised by Dr. Sarah Rajtmajer. My research interests include digital harm in social media, misinformation, computational social science, natural language processing, etc.
+bio: This is Xinyu (Ginny) Wang, a fourth-year dual-degree Ph.D. student in Informatics and Social Data Analytics at the Pennsylvania State University. I am honored to be advised by Dr. Sarah Rajtmajer. My research interests include digital harm in social media, misinformation, computational social science, natural language processing, etc.
 
 # Interests to show in About widget
 interests:
@@ -39,7 +39,7 @@ education:
   courses:
     - course: Dual-degree PhD in Informatics and Social Data Analytics
       institution: Pennsylvania State University
-      year: Expected 2025
+      year: Expected 2026
     - course: MEng in Industrial Engineering and Operations Research
       institution: Unviersity of California at Berkeley
       year: 2020
@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Xinyu (Ginny) Wang is a third-year dual-degree Ph.D. student in Informatics and Social Data Analytics at the Pennsylvania State University. She is advised by Dr. Sarah Rajtmajer. She holds a Masters of Engineering from University of California at Berkeley and a Bachelors in Industrial Engineering from University of Illinois at Urbana-Champaign.  Her research interests include digital harm in social media, misinformation, computational social science, natural language processing, etc. 
+I'm a fourth-year dual-degree Ph.D. student in Informatics and Social Data Analytics at the Pennsylvania State University. I am advised by Dr. Sarah Rajtmajer. She holds a Masters of Engineering from the University of California at Berkeley and a Bachelors in Industrial Engineering from the University of Illinois at Urbana-Champaign.  Her research interests include digital harm in social media, misinformation, computational social science, natural language processing, etc. 
 {style="text-align: justify;"}
